@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Siddharth Shukla
 👨🏻‍💻  About Me
 🎓   Currently a Third Year IT (Information Technology) student @VIT .
-🌱   Learning more about Data Science, Machine Learning and Artificial Intelligence and also interested in Network Security.
+🌱   Learning more about Data Science, Machine Learning and Artificial Intelligence and also interested in Network Security.<br>
 
 🛠  Tech Stack
 Python
