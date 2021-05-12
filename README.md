@@ -22,7 +22,7 @@
 - An ML & Open Source enthusiast.
 - Currently a Third Year Information Technology Student. 
 - Working on some of my cool side projects based on Data Science and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.<br>
 🛠  Tech Stack
 - Python
 - C++
