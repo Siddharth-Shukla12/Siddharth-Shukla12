@@ -34,7 +34,8 @@
 
 
 ⭐️ From Siddharth Shukla
-<a href="https://github.com/Siddharth-Shukla12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siddharth-Shukla12&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Shukla12&theme=buefy&layout=compact" />
+
+<a href="https://github.com/Siddharth-Shukla12"><br>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siddharth-Shukla12&theme=buefy&show_icons=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Shukla12&theme=buefy&layout=compact" />
 </a>
