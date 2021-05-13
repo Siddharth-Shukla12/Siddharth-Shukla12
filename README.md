@@ -32,4 +32,9 @@
 - Flask
 - SQL
 
+
 ⭐️ From Siddharth Shukla
+<a href="https://github.com/Siddharth-Shukla12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwaldubey28&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaldubey28&theme=buefy&layout=compact" />
+</a>
