@@ -20,7 +20,7 @@
 
 ### Hi there!!, I am Siddharth Rakesh Shukla
 - An ML & Open Source enthusiast and a Competitive coder
-- Currently a Third Year Information Technology Student. 
+- Currently a Fourth Year Information Technology Student. 
 - Working on some of my cool side projects based on Data Science and Machine Learning.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.<br>
 
