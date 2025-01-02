@@ -24,14 +24,27 @@
 - Working on some of my cool side projects based on Data Science and Machine Learning.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.<br>
 
-🛠  Tech Stack
-- Python
-- C++
-- Machine Learning
-- Deep Learning
-- Flask
-- SQL
+## Technical Skills
 
+### Languages :
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+### Libraries & Tools :
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF5733.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Databases :
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Visualization and Analytics :
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ⭐️ From Siddharth Shukla
 
