@@ -16,8 +16,6 @@
   <img align="left" alt="Siddharth's kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
 ### Hi there!!, I am Siddharth Rakesh Shukla
 I am a dedicated **Software Engineer** and a graduate student at **Northeastern University, Boston**, pursuing a **Master of Science in Information Systems**. With a professional background in backend development and a keen interest in **Data Science and Analytics**, I am driven by the desire to create impactful solutions that harness the power of technology and data.
 
