@@ -16,7 +16,7 @@
   <img align="left" alt="Siddharth's kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
-# Hi there!!, I am Siddharth Rakesh Shukla 👋
+ Hi there!!, I am Siddharth Rakesh Shukla 👋
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
