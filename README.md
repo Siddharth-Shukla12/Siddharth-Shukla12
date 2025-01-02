@@ -19,10 +19,13 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### Hi there!!, I am Siddharth Rakesh Shukla
-- An ML & Open Source enthusiast and a Competitive coder
-- Currently a Fourth Year Information Technology Student. 
-- Working on some of my cool side projects based on Data Science and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.<br>
+I am a dedicated **Software Engineer** and a graduate student at **Northeastern University, Boston**, pursuing a **Master of Science in Information Systems**. With a professional background in backend development and a keen interest in **Data Science and Analytics**, I am driven by the desire to create impactful solutions that harness the power of technology and data.
+
+During my time as a backend engineer, I worked on building robust and scalable systems, gaining valuable experience in designing efficient architectures and solving complex technical challenges. Over time, my fascination with data's transformative potential has grown, leading me to explore the exciting intersection of software engineering and analytics. My ultimate goal is to contribute to innovative projects that leverage data-driven insights to drive smarter decisions and meaningful change.
+
+I am a strong believer in lifelong learning and personal growth. I continuously seek opportunities to expand my technical and analytical skill set, pushing boundaries to uncover creative solutions. Beyond my technical expertise, I take pride in being a collaborative and approachable team player. I enjoy working with diverse groups, sharing knowledge, and fostering an environment of mutual respect and productivity.
+
+With a unique blend of engineering expertise and analytical curiosity, I am committed to building solutions that not only solve problems but also pave the way for future innovation. Whether it's designing a scalable backend system or uncovering actionable insights from data, I am always ready to tackle challenges with passion and purpose.
 
 ## Technical Skills
 
