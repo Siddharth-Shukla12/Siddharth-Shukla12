@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 
 
 
@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/siddharthrshukla">
-  <img align="left" alt="Siddharth's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Siddharth's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.kaggle.com/siddhu12">
   <img align="left" alt="Siddharth's kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
