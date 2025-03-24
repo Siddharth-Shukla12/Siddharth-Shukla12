@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## About Me
-I am a dedicated **Software Engineer** and a graduate student at **Northeastern University, Boston**, pursuing a **Master of Science in Information Systems**. With a professional background in backend development and a keen interest in **Data Science and Analytics**, I am driven by the desire to create impactful solutions that harness the power of technology and data.
+I am an aspiring Data and Backend Engineer and a graduate student at **Northeastern University, Boston**, pursuing a **Master of Science in Information Systems**. With a professional background in backend development and a keen interest in **Data Science and Analytics**, I am driven by the desire to create impactful solutions that harness the power of technology and data.
 
 During my time as a backend engineer, I worked on building robust and scalable systems, gaining valuable experience in designing efficient architectures and solving complex technical challenges. Over time, my fascination with data's transformative potential has grown, leading me to explore the exciting intersection of software engineering and analytics. My ultimate goal is to contribute to innovative projects that leverage data-driven insights to drive smarter decisions and meaningful change.
 
